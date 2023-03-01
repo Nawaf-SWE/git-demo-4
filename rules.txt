@@ -1,0 +1,1 @@
+use "pow(x, power)" instead of "number**base"
